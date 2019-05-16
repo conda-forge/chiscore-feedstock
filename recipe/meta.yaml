@@ -1,5 +1,5 @@
 {% set name = "chiscore" %}
-{% set version = "0.1.0" %}
+{% set version = "0.2.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 954cc473c141e8ccdde46c7188550d5009383e43ef6252afbbcc9b01c4597a41
+  sha256: 4f5c42401e4c2d7daeb235018c1f0244cb3ef8c575bb23663b4547502e789a79
 
 build:
   noarch: python

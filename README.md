@@ -5,7 +5,7 @@ Home: https://github.com/limix/chiscore
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Test statistics derived from linear combination of chi-squared distributions
 
